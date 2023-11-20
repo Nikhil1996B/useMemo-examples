@@ -1,0 +1,28 @@
+{
+  "studentEntry": [
+    {
+      "id": 1,
+      "name": "abc",
+      "score": 70,
+      "subject": "Maths"
+    },
+    {
+      "id": 2,
+      "name": "def",
+      "score": 80,
+      "subject": "Maths"
+    },
+    {
+      "id": 1,
+      "name": "abc",
+      "score": 90,
+      "subject": "Science"
+    },
+    {
+      "id": 2,
+      "name": "def",
+      "score": 100,
+      "subject": "English"
+    }
+  ]
+}

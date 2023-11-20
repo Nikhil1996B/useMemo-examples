@@ -1,0 +1,20 @@
+pre {
+  background-color: #1d1d1d;
+  color: rgb(205, 248, 97);
+  padding: 4px;
+  word-break: break-all;
+  border-collapse: collapse;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #ccc;
+}
+
+th,
+td {
+  padding: 4px;
+  text-align: left;
+  border: 1px solid white;
+}
